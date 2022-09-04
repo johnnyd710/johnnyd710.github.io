@@ -4,11 +4,11 @@
 
 --- 2022-08-31 Antifragile by Nassim Nicholas Taleb
 
-"On April 29, 711, the armies of the Arab commander Tarek crossed the Strait of Gibraltar from Morocco into Spain with a small army (the name Gibraltar is derived from the Arabic Jabal Tarek, meaning "mount of Tarek"). Upon landing, Tarek had his ships put to the fire. He then made a famous speech … "Behind you is the sea, before you, the enemy. You are vastly outnumbered. All you have is sword and courage.""
+"On April 29, 711, the armies of the Arab commander Tarek crossed the Strait of Gibraltar from Morocco into Spain with a small army (the name Gibraltar is derived from the Arabic Jabal Tarek, meaning "mount of Tarek"). Upon landing, Tarek had his ships put to the fire. He then made a famous speech ... "Behind you is the sea, before you, the enemy. You are vastly outnumbered. All you have is sword and courage.""
 
 --- 2022-08-30 Where Do We Come From? What Are We? Where Are We Going? (1897-98) by Paul Gauguin
 
-"I have put all my energy into it one more time before I die, so painful a passion in such dreadful circumstances, so clear and accurate a vision, that there is no trace of precociousness and life blossoms forth from it". https://www.wikiart.org/en/paul-gauguin/where-do-we-come-from-what-are-we-where-are-we-going-1897
+"I have put all my energy into it one more time before I die, so painful a passion in such dreadful circumstances, so clear and accurate a vision, that there is no trace of precociousness and life blossoms forth from it". <a href="https://www.wikiart.org/en/paul-gauguin/where-do-we-come-from-what-are-we-where-are-we-going-1897"></a>
 
 --- 2022-08-30 François Chollet (@fchollet) tweeted at 8:15 a.m. on Fri., Aug. 26, 2022
 
@@ -16,8 +16,8 @@
 
 --- 2022-07-30 Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety by Eric Schlosser 
 
-The United States plan to attack the Soviet Union (and China) was absolutely horrifying…
-"featured 3,729 targets, grouped into more than 1,000 ground zeros, that would be struck by 3,423 nuclear weapons. The targets were located in the Soviet Union, China, North Korea, and Eastern Europe. About 80 percent were military targets, and the rest were civilian. … Within three days of the initial attack, the full force of the SIOP would kill about 54 percent of the Soviet Union's population and about 16 percent of China's population—roughly 220 million people. Millions more would subsequently die from burns, radiation poisoning, exposure. The SIOP was designed for a national emergency, when the survival of the United States was at stake, and the decision to launch the SIOP would carry an almost unbearable weight. Once the SIOP was set in motion, it could not be altered, slowed, or stopped."
+The United States plan to attack the Soviet Union (and China) was absolutely horrifying...
+"featured 3,729 targets, grouped into more than 1,000 ground zeros, that would be struck by 3,423 nuclear weapons. The targets were located in the Soviet Union, China, North Korea, and Eastern Europe. About 80 percent were military targets, and the rest were civilian. ... Within three days of the initial attack, the full force of the SIOP would kill about 54 percent of the Soviet Union's population and about 16 percent of China's population—roughly 220 million people. Millions more would subsequently die from burns, radiation poisoning, exposure. The SIOP was designed for a national emergency, when the survival of the United States was at stake, and the decision to launch the SIOP would carry an almost unbearable weight. Once the SIOP was set in motion, it could not be altered, slowed, or stopped."
 
 --- 2022-07-26 Daniel Berry (my excellent U of Waterloo professor)
 
@@ -111,7 +111,7 @@ Historical example of crowd psychology include medieval Europe's euthasium in th
 [page 143 - 168] Prior probability is prior to seeing evidence.
 Posterior probability is after seeing evidence, and is constantly updated.
 Bayes Theorem tells us how to update our priors after seeing evidence!
-P(cause|effect) goes up with P(effect|cause)= ?… goes down with P(effect)= it happens all the time then nbd…
+P(cause|effect) goes up with P(effect|cause)= ?... goes down with P(effect)= it happens all the time then nbd...
 And goes up with P(cause)= unless our cause rarely happens!
 The initial probability is either obtained by counting (frequentist) or through an assumption.
 For instance, the probability people have a fever if they have the flu is either 1/20 because you counted 1 after seeing 20 people and used that, OR you take a guess based on some other evidence.
@@ -131,7 +131,7 @@ For the Republicans to win the election of 1877 they essentially bribed congress
 
 Trajan's Parthia campaign Greatest extent of the Roman Empire was under Trajan, would be cool to have a map of it.
 Trajan's column in Rome would be so cool to see, celebrating his Dacian Campaign.
-Trajan was so close to destroying Parthia… he even captured the capital, but internal rebellion and the Jewish revolt made him come back and then he died.
+Trajan was so close to destroying Parthia... he even captured the capital, but internal rebellion and the Jewish revolt made him come back and then he died.
 
 --- 2019-10-12 In the Name of Rome by Adrian Goldsworthy
 
@@ -200,7 +200,7 @@ Well, depends which is more predictive of success in the NFL, skill or athletici
 
 --- 2020-10-11 Skunk Works by Ben Rich
 Pg 51 Kelly johnsons 14 rules for Skunk Works are
-(1) the program manager must be delegated complete control of the program (2) strong but SMALL project offices (3) the # of people in connection with the project must be restricted viciously (4) very simple drawing system with great flexibility (5) minimize the number of reports but document important work thoroughly (6) monthly cost reviews covering what was spent and projected costs, NO SURPRISES … (14) because only a few people will be used in engineering, ways must be provided to reward good people with pay not based on # of people supervised
+(1) the program manager must be delegated complete control of the program (2) strong but SMALL project offices (3) the # of people in connection with the project must be restricted viciously (4) very simple drawing system with great flexibility (5) minimize the number of reports but document important work thoroughly (6) monthly cost reviews covering what was spent and projected costs, NO SURPRISES ... (14) because only a few people will be used in engineering, ways must be provided to reward good people with pay not based on # of people supervised
 
 --- 2020-12-12 unknown
 
@@ -314,7 +314,7 @@ Keep everything clean. At least board it up!
 
 --- 2022-06-12 Sapiens by Yuval Harari
 
-Pg 182 "Contradictions create culture… best example is the crusades, Christian knights praying for peace in the morning and killing Muslims at night. Crazy how an entire society can accept the contradiction. Culture is constantly trying to resolve these contradictions, and this creates progress. Like individual freedom vs equitable society in politics today."
+Pg 182 "Contradictions create culture... best example is the crusades, Christian knights praying for peace in the morning and killing Muslims at night. Crazy how an entire society can accept the contradiction. Culture is constantly trying to resolve these contradictions, and this creates progress. Like individual freedom vs equitable society in politics today."
 
 --- 2022-06-12 Sapiens by Yuval Harari
 
@@ -330,7 +330,7 @@ Pg. 684: "But there is no such thing as a pure fact, innocent of interpretation 
 
 --- 2022-06-12 Meditations by Marcus Aurelius
 
-Pg. 29 - "Make for yourself a definition or description of the thing which is presented to you, so as to see distinctly what kind of a thing it is in substance… For nothing so produces an elevation of the mind as to be able to examine methodically and truly every object which is presented to you in life."
+Pg. 29 - "Make for yourself a definition or description of the thing which is presented to you, so as to see distinctly what kind of a thing it is in substance... For nothing so produces an elevation of the mind as to be able to examine methodically and truly every object which is presented to you in life."
 
 --- 2022-06-12 Meditations by Marcus Aurelius
 
