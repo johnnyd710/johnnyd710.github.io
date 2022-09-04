@@ -1,4 +1,6 @@
+--- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
+"The most fundamental thing we fail to appreciate about the world, Heidegger asserts in his magnum opus, Being and Time, is how bafflingly astonishing it is that it’s there at all—the fact that there is anything rather than nothing."
 
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
