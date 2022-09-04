@@ -1,18 +1,18 @@
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
-“Work expands so as to fill the time available for its completion,” the English humorist and historian C. Northcote Parkinson wrote in 1955, coining what became known as Parkinson's law."
+"Work expands so as to fill the time available for its completion," the English humorist and historian C. Northcote Parkinson wrote in 1955, coining what became known as Parkinson's law."
 
 --- 2022-08-31 Antifragile by Nassim Nicholas Taleb
 
-"On April 29, 711, the armies of the Arab commander Tarek crossed the Strait of Gibraltar from Morocco into Spain with a small army (the name Gibraltar is derived from the Arabic Jabal Tarek, meaning “mount of Tarek”). Upon landing, Tarek had his ships put to the fire. He then made a famous speech … “Behind you is the sea, before you, the enemy. You are vastly outnumbered. All you have is sword and courage.”"
+"On April 29, 711, the armies of the Arab commander Tarek crossed the Strait of Gibraltar from Morocco into Spain with a small army (the name Gibraltar is derived from the Arabic Jabal Tarek, meaning "mount of Tarek"). Upon landing, Tarek had his ships put to the fire. He then made a famous speech … "Behind you is the sea, before you, the enemy. You are vastly outnumbered. All you have is sword and courage.""
 
 --- 2022-08-30 Where Do We Come From? What Are We? Where Are We Going? (1897-98) by Paul Gauguin
 
-“I have put all my energy into it one more time before I die, so painful a passion in such dreadful circumstances, so clear and accurate a vision, that there is no trace of precociousness and life blossoms forth from it”. https://www.wikiart.org/en/paul-gauguin/where-do-we-come-from-what-are-we-where-are-we-going-1897
+"I have put all my energy into it one more time before I die, so painful a passion in such dreadful circumstances, so clear and accurate a vision, that there is no trace of precociousness and life blossoms forth from it". https://www.wikiart.org/en/paul-gauguin/where-do-we-come-from-what-are-we-where-are-we-going-1897
 
 --- 2022-08-30 François Chollet (@fchollet) tweeted at 8:15 a.m. on Fri., Aug. 26, 2022
 
-“Deep learning takes data points and turns them into a query-able structure that enables retrieval and interpolation between the points. You could think of it as a continuous generalization of database technology. “
+"Deep learning takes data points and turns them into a query-able structure that enables retrieval and interpolation between the points. You could think of it as a continuous generalization of database technology. "
 
 --- 2022-07-30 Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety by Eric Schlosser 
 
@@ -21,7 +21,7 @@ The United States plan to attack the Soviet Union (and China) was absolutely hor
 
 --- 2022-07-26 Daniel Berry (my excellent U of Waterloo professor)
 
-“more than 90 per cent of the code is necessary to deal with the exceptions that happen less than 10 percent of the time. The less frequent and more obscure an exception is, the more code is required to handle it. The big problem is that too often in the name of agility and getting software launched before the competition, it is developed without spending the time to identify the exception conditions”
+"more than 90 per cent of the code is necessary to deal with the exceptions that happen less than 10 percent of the time. The less frequent and more obscure an exception is, the more code is required to handle it. The big problem is that too often in the name of agility and getting software launched before the competition, it is developed without spending the time to identify the exception conditions"
 
 --- 2022-07-24 Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety by Eric Schlosser
 
@@ -33,7 +33,7 @@ The United States plan to attack the Soviet Union (and China) was absolutely hor
 
 --- 2022-07-06 Antifragile by Nassim Nicholas Taleb
 
-"if you have more than one reason to do something (choose a doctor or veterinarian, hire a gardener or an employee, marry a person, go on a trip), just don't do it. It does not mean that one reason is better than two, just that by invoking more than one reason you are trying to convince yourself to do something. Obvious decisions (robust to error) require no more than a single reason. Likewise the French army had a heuristic to reject excuses for absenteeism for more than one reason, like death of grandmother, cold virus, and being bitten by a boar. If someone attacks a book or idea using more than one argument, you know it is not real: nobody says “he is a criminal, he killed many people, and he also has bad table manners and bad breath and is a very poor driver.” I have often followed what I call Bergson's razor: “A philosopher should be known for one single idea, not more”"
+"if you have more than one reason to do something (choose a doctor or veterinarian, hire a gardener or an employee, marry a person, go on a trip), just don't do it. It does not mean that one reason is better than two, just that by invoking more than one reason you are trying to convince yourself to do something. Obvious decisions (robust to error) require no more than a single reason. Likewise the French army had a heuristic to reject excuses for absenteeism for more than one reason, like death of grandmother, cold virus, and being bitten by a boar. If someone attacks a book or idea using more than one argument, you know it is not real: nobody says "he is a criminal, he killed many people, and he also has bad table manners and bad breath and is a very poor driver." I have often followed what I call Bergson's razor: "A philosopher should be known for one single idea, not more""
 
 ---! 2022-07-06 Tom Goldstein (@tomgoldsteincs)  https://t.co/TmSlXs1HpV
 
@@ -66,7 +66,7 @@ More data is not always better, the human mind can make very accurate conclusion
 
 --- 2018-07-10 Emil-Auguste Chartier
 
-“Nothing is more dangerous than an idea if it's the only idea you have.”
+"Nothing is more dangerous than an idea if it's the only idea you have."
 
 --- 2018-09-09 http://nsmn1.uh.edu/dgraur/niv/themostdangerousequation.pdf
 
@@ -78,11 +78,11 @@ Also explains why the counties with lowest population have the highest and lowes
 
 --- 2018-10-24 Incognito by David Eagleman
 
-“The brain internally simulates what will happen if you perform some action under a specific condition”.
-“Our expectations influence what we see”.
-“Awareness of your surroundings occurs only when sensory inputs violate expectations” page 48
-“Adapting to delay can make it seem like an event occurs BEFORE it actually does”... so time is relative only to us page 53
-“The most important maxim for fighter pilots is ‘Trust your instruments'” because the senses lie page 53
+"The brain internally simulates what will happen if you perform some action under a specific condition".
+"Our expectations influence what we see".
+"Awareness of your surroundings occurs only when sensory inputs violate expectations" page 48
+"Adapting to delay can make it seem like an event occurs BEFORE it actually does"... so time is relative only to us page 53
+"The most important maxim for fighter pilots is ‘Trust your instruments'" because the senses lie page 53
 
 --- 2019-01-01 unknown
 "Anthropic principle - that observations of the Universe must be compatible with the conscious and sapient life that observes it"
@@ -117,8 +117,8 @@ The initial probability is either obtained by counting (frequentist) or through 
 For instance, the probability people have a fever if they have the flu is either 1/20 because you counted 1 after seeing 20 people and used that, OR you take a guess based on some other evidence.
 
 --- 2019-05-06 The Master Algorithm by Pedro Domingos
-“If an algorithm performs better than random search on some class of problems then in must perform worse than random search on the remaining problems.”
-“Practically it means there is no such thing as learning without knowledge. Data alone is not enough. But The Master Algorithm by Pedro Domingos refutes this:”
+"If an algorithm performs better than random search on some class of problems then in must perform worse than random search on the remaining problems."
+"Practically it means there is no such thing as learning without knowledge. Data alone is not enough. But The Master Algorithm by Pedro Domingos refutes this:"
 NFT is a lot like the reason Pascal's wager fails. We dont care about all possible worlds - only this one.
 If we know something about the world and incorporate it into our learner than it will do better than random guessing."
 Although the anti argument is that the so called knowledge of our world comes from induction and is fallible.
@@ -139,7 +139,7 @@ Hannibal Barca The master of ‘finding another way to do something'. Finding wa
 
 --- 2019-10-14 In the Name of Rome by Adrian Goldsworthy
 Rival of Hannibal Barca.His father was defeated embarrassingly to Hannibal when he was 16.Delegated as a general to Iberia when he was older where he won several victories against Carthage while kept terrorizing Italy.Led a counterattack against Carthage, Hannibal was forced to retreat to face him.He crushed Hannibal and won the Second Punic war.Also had victories against the Greeks and Seleucids.
-Encounter with Hannibal in Anatolia: Scipio: “Hannibal, who is the greatest general of all?”Hannibal: “Alexander, of course, then Pyrrhus and then me” Scipio: “And what if I had not defeated you?” Hannibal “Then I would be before Alexander”
+Encounter with Hannibal in Anatolia: Scipio: "Hannibal, who is the greatest general of all?"Hannibal: "Alexander, of course, then Pyrrhus and then me" Scipio: "And what if I had not defeated you?" Hannibal "Then I would be before Alexander"
 
 --- 2019-10-21 In the Name of Rome by Adrian Goldsworthy
 Pg. 379. One of the best things a general could do was just act as a witness. To deeds of valour, courage and cowardice, soldiers wanted to be seen! And rewarded! And others scolded!
@@ -219,7 +219,7 @@ So along comes Alexander the Great who chops the knot to bits with his sword.
 
 Friedrich Paulus German general in Stalingrad.
 Pleaded to Hitler to allowed surrender of 100,000 German forces surrounded by Bolshevist Russians.
-Hitler said no, and promoted him to Field Marshall, saying “no German Field Marshall has ever surrendered, don't disrepect your country”.
+Hitler said no, and promoted him to Field Marshall, saying "no German Field Marshall has ever surrendered, don't disrepect your country".
 But days later the Russian forces broke through and he did surrender (Hitler wanted him to commit suicide instead).
 He flew his wedding ring back to his wife before becoming a POW.
 He ended up advocating for Germany's surrender in 1944 and helped in Nuremburg Trials.
@@ -244,7 +244,7 @@ Sophomore slumps in sports signify that a person was more likely to have been lu
 "There was a city. All it's inhabitants were blind. A king with his entourage arrived. He brought his army and his great elephant. The blind were anxious to see the elephant, so they ran to find it. As they did not the form or shape of the elephant, they groped sightlessly, gathering information by touching some part of it.Each thought they knew something, because they could feel a part. The man who touched the ear said 'it is a large, rough, wide thing, like a rug'. One man touched the trunk and said 'the elephant is like a long pipe'. The one who felt its legs said 'no no, it's a huge wide thick pillar'. Each had felt a part out of many. Each had perceived it wrong."
 
 --- 2021-08-31 Meditations by Marcus Aurelius
-"Give yourself time to learn something new and good, and cease to be whirled about”
+"Give yourself time to learn something new and good, and cease to be whirled about"
 When learning something new, learn it well and enjoy it.
 Don't just jump from hobby to hobby or job to job, never really enjoying anything.
 
@@ -264,7 +264,7 @@ The key idea that was missing was that ANDs and ORs of boolean algebra could be 
 
 --- 2022-05-02 unknown
 
-“For the want of a nail a shoe was lost. For the want of a shoe a horse was lost. For the want of a battle the war was lost. All for the want of a nail.”
+"For the want of a nail a shoe was lost. For the want of a shoe a horse was lost. For the want of a battle the war was lost. All for the want of a nail."
 
 ---! 2022-05-24 myself
 Virtues I think are important for myself are: Intellectual courage, i.e., questioning oneself and not being afraid to challenge the status quo, appreciation, i.e., being thankful, awareness of the beauty of nature surrounding you, and honesty
@@ -294,7 +294,7 @@ Keep everything clean. At least board it up!
 
 --- 2022-06-09 The Master Algorithm by Pedro Domingos
 
-“we don't build airplanes by reverse engineering feathers, and airplanes don't flap their wings. Rather, airplane designs are based on the principles of aerodynamics.”
+"we don't build airplanes by reverse engineering feathers, and airplanes don't flap their wings. Rather, airplane designs are based on the principles of aerodynamics."
 
 --- 2022-06-09 The Book of Why by Judea Pearl
 
@@ -310,7 +310,7 @@ Keep everything clean. At least board it up!
 
 --- 2022-06-12 Antifragility by Nassim Taleb
 
-"Further, after the occurrence of an event, we need to switch the blame from the inability to see an event coming (say a tsunami, an Arabo-Semitic spring or similar riots, an earthquake, a war, or a financial crisis) to the failure to understand (anti)fragility, namely, “why did we build something so fragile to these types of events?” Not seeing a tsunami or an economic event coming is excusable; building something fragile to them is not."
+"Further, after the occurrence of an event, we need to switch the blame from the inability to see an event coming (say a tsunami, an Arabo-Semitic spring or similar riots, an earthquake, a war, or a financial crisis) to the failure to understand (anti)fragility, namely, "why did we build something so fragile to these types of events?" Not seeing a tsunami or an economic event coming is excusable; building something fragile to them is not."
 
 --- 2022-06-12 Sapiens by Yuval Harari
 
@@ -326,15 +326,15 @@ Pg. 183 - In 210 B.C. , a Chinese commander named Xiang Yu led an army against t
 
 --- 2022-06-12 A People's History of the United States by Howard Zinn
 
-Pg. 684: “But there is no such thing as a pure fact, innocent of interpretation . Behind every fact presented to the world is a judgement. The judgement that has been made is that this fact is important, and other facts, omitted, are less important”
+Pg. 684: "But there is no such thing as a pure fact, innocent of interpretation . Behind every fact presented to the world is a judgement. The judgement that has been made is that this fact is important, and other facts, omitted, are less important"
 
 --- 2022-06-12 Meditations by Marcus Aurelius
 
-Pg. 29 - “Make for yourself a definition or description of the thing which is presented to you, so as to see distinctly what kind of a thing it is in substance… For nothing so produces an elevation of the mind as to be able to examine methodically and truly every object which is presented to you in life.”
+Pg. 29 - "Make for yourself a definition or description of the thing which is presented to you, so as to see distinctly what kind of a thing it is in substance… For nothing so produces an elevation of the mind as to be able to examine methodically and truly every object which is presented to you in life."
 
 --- 2022-06-12 Meditations by Marcus Aurelius
 
-Pg.42 - “Observe constantly that all things take place by change, and accustom yourself to consider that the nature of the universe loves nothing so much as to change the things which are and to make new things like them. For everything that exists is in a manner the seed of that which will be.”
+Pg.42 - "Observe constantly that all things take place by change, and accustom yourself to consider that the nature of the universe loves nothing so much as to change the things which are and to make new things like them. For everything that exists is in a manner the seed of that which will be."
 
 --- 2022-06-12 In the Name of Rome by Adrian Goldsworthy
 
@@ -346,7 +346,7 @@ Pg. 379. One of the best things a general could do was just act as a witness. To
 
 --- 2022-06-12 The Guns of August by Barbara Tuchmann
 
-“The battle of the Marne was one of the decivise battles of the world not because it determined Germany would lose the war, but because it determined that the war would go on for another four years”
+"The battle of the Marne was one of the decivise battles of the world not because it determined Germany would lose the war, but because it determined that the war would go on for another four years"
 
 --- 2022-06-12 Godel, Escher, Bach by Douglas Hofstadter
 
@@ -354,14 +354,14 @@ Pg. 286 - a chess expert thinks on a different level than the novice. A master r
 
 --- 2022-06-12 Code - The Hidden Language of Computer Hardware and Software By Charles Petzold
 
-Pg. 253 - “A computer processor does moronically simple things - moves a byte to/from memory, adds a byte to another byte. The only reason anything substantial gets done is because it all happens so many times so quickly”
+Pg. 253 - "A computer processor does moronically simple things - moves a byte to/from memory, adds a byte to another byte. The only reason anything substantial gets done is because it all happens so many times so quickly"
 
 --- 2022-06-16 Antifragile by Nassim Nicholas Taleb
 
-"If you put 90 percent of your funds in boring cash (assuming you are protected from inflation) or something called a “numeraire repository of value,” and 10 percent in very risky, maximally risky, securities, you cannot possibly lose more than 10 percent, while you are exposed to massive upside."
+"If you put 90 percent of your funds in boring cash (assuming you are protected from inflation) or something called a "numeraire repository of value," and 10 percent in very risky, maximally risky, securities, you cannot possibly lose more than 10 percent, while you are exposed to massive upside."
 
 --- 2022-06-18 Antifragile by Nassim Nicholas Taleb
 
-"If you “have optionality,” you don't have much need for what is commonly called intelligence, knowledge, insight, skills, ... you don't have to be right that often.
+"If you "have optionality," you don't have much need for what is commonly called intelligence, knowledge, insight, skills, ... you don't have to be right that often.
 All you need is the wisdom to not do unintelligent things to hurt yourself (some acts of omission) and recognize favorable outcomes when they occur.
 ... evolution can produce astonishingly sophisticated objects without intelligence, simply thanks to a combination of optionality and some type of a selection filter, plus some randomness"
