@@ -1,3 +1,5 @@
+
+
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
 "Work expands so as to fill the time available for its completion," the English humorist and historian C. Northcote Parkinson wrote in 1955, coining what became known as Parkinson's law."
@@ -8,7 +10,7 @@
 
 --- 2022-08-30 Where Do We Come From? What Are We? Where Are We Going? (1897-98) by Paul Gauguin
 
-"I have put all my energy into it one more time before I die, so painful a passion in such dreadful circumstances, so clear and accurate a vision, that there is no trace of precociousness and life blossoms forth from it". <a href="https://www.wikiart.org/en/paul-gauguin/where-do-we-come-from-what-are-we-where-are-we-going-1897"></a>
+"I have put all my energy into it one more time before I die, so painful a passion in such dreadful circumstances, so clear and accurate a vision, that there is no trace of precociousness and life blossoms forth from it". https://www.wikiart.org/en/paul-gauguin/where-do-we-come-from-what-are-we-where-are-we-going-1897
 
 --- 2022-08-30 François Chollet (@fchollet) tweeted at 8:15 a.m. on Fri., Aug. 26, 2022
 
@@ -19,7 +21,7 @@
 The United States plan to attack the Soviet Union (and China) was absolutely horrifying...
 "featured 3,729 targets, grouped into more than 1,000 ground zeros, that would be struck by 3,423 nuclear weapons. The targets were located in the Soviet Union, China, North Korea, and Eastern Europe. About 80 percent were military targets, and the rest were civilian. ... Within three days of the initial attack, the full force of the SIOP would kill about 54 percent of the Soviet Union's population and about 16 percent of China's population—roughly 220 million people. Millions more would subsequently die from burns, radiation poisoning, exposure. The SIOP was designed for a national emergency, when the survival of the United States was at stake, and the decision to launch the SIOP would carry an almost unbearable weight. Once the SIOP was set in motion, it could not be altered, slowed, or stopped."
 
---- 2022-07-26 Daniel Berry (my excellent U of Waterloo professor)
+--- 2022-07-26 D. Berry
 
 "more than 90 per cent of the code is necessary to deal with the exceptions that happen less than 10 percent of the time. The less frequent and more obscure an exception is, the more code is required to handle it. The big problem is that too often in the name of agility and getting software launched before the competition, it is developed without spending the time to identify the exception conditions"
 
@@ -35,7 +37,7 @@ The United States plan to attack the Soviet Union (and China) was absolutely hor
 
 "if you have more than one reason to do something (choose a doctor or veterinarian, hire a gardener or an employee, marry a person, go on a trip), just don't do it. It does not mean that one reason is better than two, just that by invoking more than one reason you are trying to convince yourself to do something. Obvious decisions (robust to error) require no more than a single reason. Likewise the French army had a heuristic to reject excuses for absenteeism for more than one reason, like death of grandmother, cold virus, and being bitten by a boar. If someone attacks a book or idea using more than one argument, you know it is not real: nobody says "he is a criminal, he killed many people, and he also has bad table manners and bad breath and is a very poor driver." I have often followed what I call Bergson's razor: "A philosopher should be known for one single idea, not more""
 
----! 2022-07-06 Tom Goldstein (@tomgoldsteincs)  https://t.co/TmSlXs1HpV
+--- 2022-07-06 Tom Goldstein (@tomgoldsteincs)  https://t.co/TmSlXs1HpV
 
 "the growth of large language [AI] models [is unsustainable]. BERT was in 2018,  PaLM in 2022.  Training PaLM used about 0.0001% of US annual power, about 13K times more than BERT.  If this rate of growth continued, training LLMs would use all of the planet's electricity by 2029." 
 
@@ -126,12 +128,6 @@ His response to that is that there is something we know is not fallible and we c
 
 --- 2019-07-07 A people's History of the United States, by Howard Zimmerman
 For the Republicans to win the election of 1877 they essentially bribed congress to give the remaining electoral votes to them in return for rich whites in south getting federal funding for infrastructure and stuff and not intervening in racial policy and removing union troops!!!
-
----! 2019-09-21 In the Name of Rome by Adrian Goldsworthy
-
-Trajan's Parthia campaign Greatest extent of the Roman Empire was under Trajan, would be cool to have a map of it.
-Trajan's column in Rome would be so cool to see, celebrating his Dacian Campaign.
-Trajan was so close to destroying Parthia... he even captured the capital, but internal rebellion and the Jewish revolt made him come back and then he died.
 
 --- 2019-10-12 In the Name of Rome by Adrian Goldsworthy
 
@@ -265,9 +261,6 @@ The key idea that was missing was that ANDs and ORs of boolean algebra could be 
 --- 2022-05-02 unknown
 
 "For the want of a nail a shoe was lost. For the want of a shoe a horse was lost. For the want of a battle the war was lost. All for the want of a nail."
-
----! 2022-05-24 myself
-Virtues I think are important for myself are: Intellectual courage, i.e., questioning oneself and not being afraid to challenge the status quo, appreciation, i.e., being thankful, awareness of the beauty of nature surrounding you, and honesty
 
 --- 2022-05-25 Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke
 "Our brains are not evolved for this world of plenty. As Dr. Tom Finucane, who studies diabetes in the setting of chronic sedentary feeding, said, 'We are cacti in the rain forest.' And like cacti adapted to an arid climate, we are drowning in dopamine. The net effect is that we now need more reward to feel pleasure, and less injury to feel pain."
