@@ -126,18 +126,13 @@ For instance, the probability people have a fever if they have the flu is either
 NFT is a lot like the reason Pascal's wager fails. We dont care about all possible worlds - only this one.
 If we know something about the world and incorporate it into our learner than it will do better than random guessing."
 Although the anti argument is that the so called knowledge of our world comes from induction and is fallible.
-His response to that is that there is something we know is not fallible and we can build everything on top of that.
-
---- 2019-07-07 A people's History of the United States, by Howard Zimmerman
-For the Republicans to win the election of 1877 they essentially bribed congress to give the remaining electoral votes to them in return for rich whites in south getting federal funding for infrastructure and stuff and not intervening in racial policy and removing union troops!!!
 
 --- 2019-10-12 In the Name of Rome by Adrian Goldsworthy
 
 Hannibal Barca The master of ‘finding another way to do something'. Finding ways around defensive positions, flanking, etc. He was only 26 when he started his war against Rome.
 
 --- 2019-10-14 In the Name of Rome by Adrian Goldsworthy
-Rival of Hannibal Barca.His father was defeated embarrassingly to Hannibal when he was 16.Delegated as a general to Iberia when he was older where he won several victories against Carthage while kept terrorizing Italy.Led a counterattack against Carthage, Hannibal was forced to retreat to face him.He crushed Hannibal and won the Second Punic war.Also had victories against the Greeks and Seleucids.
-Encounter with Hannibal in Anatolia: Scipio: "Hannibal, who is the greatest general of all?"Hannibal: "Alexander, of course, then Pyrrhus and then me" Scipio: "And what if I had not defeated you?" Hannibal "Then I would be before Alexander"
+Encounter with Hannibal in Anatolia: Scipio: "Hannibal, who is the greatest general of all? "Hannibal: "Alexander, of course, then Pyrrhus and then me" Scipio: "And what if I had not defeated you?" Hannibal "Then I would be before Alexander"
 
 --- 2019-10-21 In the Name of Rome by Adrian Goldsworthy
 Pg. 379. One of the best things a general could do was just act as a witness. To deeds of valour, courage and cowardice, soldiers wanted to be seen! And rewarded! And others scolded!
