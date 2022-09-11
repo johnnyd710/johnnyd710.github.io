@@ -1,6 +1,10 @@
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
-"The most fundamental thing we fail to appreciate about the world, Heidegger asserts in his magnum opus, Being and Time, is how bafflingly astonishing it is that it’s there at all—the fact that there is anything rather than nothing."
+"The most effective way to sap distraction of its power is just to stop expecting things to be otherwise - to accept that this unpleasantness is simply what it feels like for finite humans to commit ourselves to the kinds of demanding and valuable tasks that force us to confront our limited control over how our lives unfold."
+
+--- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
+
+"The most fundamental thing we fail to appreciate about the world, Heidegger asserts in his magnum opus, Being and Time, is how bafflingly astonishing it is that it's there at all—the fact that there is anything rather than nothing."
 
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
@@ -33,7 +37,7 @@ The United States plan to attack the Soviet Union (and China) was absolutely hor
 
 --- 2022-07-19 Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety by Eric Schlosser
 
-"Iklé suggested that the Second World War strategy of targeting civilians had failed to achieve its aims. The casualties were disproportionately women, children, and the elderly—not workers essential to the war effort. Cities adapted to the bombing, and their morale wasn't easily broken. Even in Hiroshima, the desire to fight back survived the blast: when rumors spread that San Francisco, San Diego, and Los Angeles had been destroyed by Japanese atomic bombs, people became lighthearted and cheerful, hoping the war could still be won."
+"Ikle suggested that the Second World War strategy of targeting civilians had failed to achieve its aims. The casualties were disproportionately women, children, and the elderly—not workers essential to the war effort. Cities adapted to the bombing, and their morale wasn't easily broken. Even in Hiroshima, the desire to fight back survived the blast: when rumors spread that San Francisco, San Diego, and Los Angeles had been destroyed by Japanese atomic bombs, people became lighthearted and cheerful, hoping the war could still be won."
 
 --- 2022-07-06 Antifragile by Nassim Nicholas Taleb
 
