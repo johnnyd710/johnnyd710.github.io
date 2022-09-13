@@ -1,5 +1,9 @@
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
+"in the words of the American meditation teacher Joseph Goldstein, 'a plan is just a thought.' We treat our plans as though they are a lasso, thrown from the present around the future, in order to bring it under our command. But all a plan is—all it could ever possibly be—is a present-moment statement of intent."
+
+--- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
+
 "The most effective way to sap distraction of its power is just to stop expecting things to be otherwise - to accept that this unpleasantness is simply what it feels like for finite humans to commit ourselves to the kinds of demanding and valuable tasks that force us to confront our limited control over how our lives unfold."
 
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
