@@ -1,3 +1,7 @@
+--- 2022-09-18 "In Praise of Idleness" Bertrand Russell https://harpers.org/archive/1932/10/in-praise-of-idleness/
+
+"The modern man thinks that everything ought to be done for the sake of something else, and never for its own sake."
+
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
 "in the words of the American meditation teacher Joseph Goldstein, 'a plan is just a thought.' We treat our plans as though they are a lasso, thrown from the present around the future, in order to bring it under our command. But all a plan is—all it could ever possibly be—is a present-moment statement of intent."
