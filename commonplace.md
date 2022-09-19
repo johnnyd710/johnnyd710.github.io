@@ -1,3 +1,9 @@
+--- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
+
+1. Develop a taste for having problems. Give each one the time it requires.
+2. Embrace radical incrementalism. Slow and steady progress. Don't do too much in one day.
+3. Distinctive work begins after the trial and error phase of copying others, learning new skills, and accumulating experience.
+
 --- 2022-09-18 "In Praise of Idleness" Bertrand Russell https://harpers.org/archive/1932/10/in-praise-of-idleness/
 
 "The modern man thinks that everything ought to be done for the sake of something else, and never for its own sake."
