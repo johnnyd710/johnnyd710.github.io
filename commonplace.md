@@ -1,3 +1,7 @@
+--- 2022-09-26 unknown
+
+"Action drives motivation."
+
 --- 2022-09-18 "In Praise of Idleness" Bertrand Russell https://harpers.org/archive/1932/10/in-praise-of-idleness/
 
 "The modern man thinks that everything ought to be done for the sake of something else, and never for its own sake."
