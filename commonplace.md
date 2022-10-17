@@ -1,16 +1,20 @@
+--- 2022-10-17 Tony Hoare
+
+"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."
+
 --- 2022-09-26 unknown
 
 "Action drives motivation."
+
+--- 2022-09-18 "In Praise of Idleness" Bertrand Russell https://harpers.org/archive/1932/10/in-praise-of-idleness/
+
+"The modern man thinks that everything ought to be done for the sake of something else, and never for its own sake."
 
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
 1. Develop a taste for having problems. Give each one the time it requires.
 2. Embrace radical incrementalism. Slow and steady progress. Don't do too much in one day.
 3. Distinctive work begins after the trial and error phase of copying others, learning new skills, and accumulating experience.
-
---- 2022-09-18 "In Praise of Idleness" Bertrand Russell https://harpers.org/archive/1932/10/in-praise-of-idleness/
-
-"The modern man thinks that everything ought to be done for the sake of something else, and never for its own sake."
 
 --- 2022-09-03 "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman
 
