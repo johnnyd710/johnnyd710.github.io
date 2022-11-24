@@ -1,3 +1,23 @@
+--- 2022-11-23 Rubicon by Tom Holland
+
+'By now,' wrote Petronius of the Republic's last generation, 'the conquering Roman had the whole world in his hand, the sea, the land, the course of the stars. But still he wanted more.'
+
+--- 2022-11-23 Rubicon by Tom Holland
+
+Caesar's expeditions to Britain have been aptly compared to the moon landings: 'they were an imagination-defying epic, an achievement at once technological and straight out of an adventure story'.
+
+--- 2022-11-23 Rubicon by Tom Holland
+
+Caesar crossed the (Rhine) river himself ... over a specially constructed bridge. The engineering brillance required to build it spoke as loudly of Roman power as did the brittling discipline of the legions who crossed it: the Germans on the other bank took one look at the monstrous wooden structure rising out of the rushing currents and melted into the woods. ... After coming back after a succesful raid, he ordered it taken down.
+
+--- 2022-11-23 Rubicon by Tom Holland
+
+Eight years previously Julius Caesar had been abducted while en route to Molon's finishing school. When the pirates demanded a ransom of twenty talents, Caesar had indignantly claimed that he was worth at least fifty. He had also warned his captors that he would capture and crucify them once he had been released, a promise that he had duly fulfilled.
+
+--- 2022-11-23 Rubicon by Tom Holland
+
+Tigranes himself, joked that the Romans 'were too many to be an embassy, and too few to be an army'. ... In one of the most stunning victories in the Republic, Lucullus not only annihilated the Armenian army, but stormed Tigranocerta and literally took it to pieces.
+
 ---2022-11-04 Percy Shelley "Poetry and Prose" (1977)
 
 "I met a traveller from an antique land, Who said 'Two vast and trunkless legs of stone, Stand in the desert. . . . Near them, on the sand, Half sunk a shattered visage lies, whose frown, And wrinkled lip, and sneer of cold command, Tell that its sculptor well those passions read. Which yet survive, stamped on these lifeless things, The hand that mocked them, and the heart that fed; And on the pedestal, these words appear: My name is Ozymandias, King of Kings; Look on my Works, ye Mighty, and despair! Nothing beside remains. Round the decay Of that colossal Wreck, boundless and bare The lone and level sands stretch far away."
